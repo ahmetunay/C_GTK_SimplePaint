@@ -21,7 +21,7 @@ This Software have a "New File " "Read File" and  "Save File " properties on "Fi
 * Angle
 * TriAngle 
 
-** Line Usuage : **
+**Line Usuage:** 
 
 * Step 1 :Left Click for start point
 
@@ -29,11 +29,12 @@ This Software have a "New File " "Read File" and  "Save File " properties on "Fi
 
 * Step 3 :Rigt Click and Drawed 
 
+
 **TriAngle**
 
-Step 1 :Left Click for First point
+* Step 1 :Left Click for First point
 
-*Step 2 :Left Click for Second point 
+* Step 2 :Left Click for Second point 
 
 * Step 3 :Left Click for Last point 
 
