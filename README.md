@@ -1,4 +1,6 @@
 # C_GTK_SimplePaint
+Basic text editor made with C programming language and GTK+2.4
+I used CodeBlocks IDE (MingwEdition) for this project.
 
 ## Features
 This Software have a "New File " "Read File" and  "Save File " properties on "File"  Tool  Bar 
@@ -14,15 +16,28 @@ This Software have a "New File " "Read File" and  "Save File " properties on "Fi
 * Draw
 * Eraser
 * Line
-* Radius
+* Round
 * RectAngle 
 * Angle
 * TriAngle 
 
+** Line Usuage : **
 
+* Step 1 :Left Click for start point
 
+* Step 2 :Left Click for finis point 
 
+* Step 3 :Rigt Click and Drawed 
 
+**TriAngle**
+
+Step 1 :Left Click for First point
+
+*Step 2 :Left Click for Second point 
+
+* Step 3 :Left Click for Last point 
+
+* Step 4 :Rigt Click and Drawed 
 
 ## Installation 
 
@@ -57,4 +72,21 @@ Value			: C:\gtk\include\gdk-pixbuf-2.0
 
 
 Finally You can  usuage this project :) 
+
+### Some  Issues and Bugs 
+
+We use this command for clean screen. It have load white screen every for every new button click. Don't worry We will change save path and name for every new photo. You cant just save  new.jpg photo lol
+
+`char newfilename[100]="C:\\Users\\Tunay\\Desktop\\new.jpg";` 
+
+
+* If you chose eraser you can't draw rectangle, squared, round, line,  triangle. If you want draw you should change background :P 
+
+
+* Point Button Bug : If you choose  3 point You will draw triangle 
+
+
+
+
+
 
