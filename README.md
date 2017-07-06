@@ -86,6 +86,15 @@ We use this command for clean screen. It have load white screen every for every 
 
 * Point Button Bug : If you choose  3 point You will draw triangle 
 
+* Window Bug : I didn't set exac resolution
+
+* I did not set exact exact resolution for users but  If you  draw something and  change resolution your drawing  will changed to white screen.
+
+* Fast drawing bug : If you draw so fast you  will show mini rectangle because Project have draw pixbuff change bit map then save  .jpeg or .png
+
+## User Catalog 
+
+![paintusercatalog](https://user-images.githubusercontent.com/24591571/27923885-9ccc775a-6288-11e7-86c0-9148ef832edf.PNG)
 
 
 
